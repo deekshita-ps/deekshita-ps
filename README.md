@@ -14,9 +14,9 @@ Currently, I am focused on scaling **Enterprise System Design Architecture** and
 ---
 
 ### 🚀 Featured Projects
-* **Product Operations Showcase 1:** *[Insert Title/Link of your 1st Prod Ops project]* – End-to-end release management framework optimizing cross-functional deployment pipelines.
-* **Product Operations Showcase 2:** *[Insert Title/Link of your 2nd Prod Ops project]* – Data-driven infrastructure service optimization and supportability framework.
-* **AI-Driven Profile Automation:** *[Link to this repo]* – This entire profile and repository are autonomously maintained and updated using **Claude Code**, demonstrating practical agentic AI workflow integration.
+* **[Product Operations & Governance Analytics](https://github.com/deekshita-ps/product-ops-analytics)** – SLO/KPI governance model backed by SQL pipelines over Jira and Salesforce, surfaced through a Power BI early-warning dashboard that flags tickets at **>80% of SLA burn**. Delivered a **30% reduction in reactive incidents** and a **12% improvement in SLA compliance**.
+* **[GenAI Scam Detector: Rollout & Governance](https://github.com/deekshita-ps/genai-scam-detector-ops)** – Owned the operational lifecycle and global rollout of a production GenAI security feature. Designed the **human-in-the-loop feedback architecture** that routes disputed detections into the retraining set, plus the tiered escalation playbook that absorbed the launch-phase ticket surge without overloading ML Engineering.
+* **[AI-Driven Profile Automation](https://github.com/deekshita-ps/deekshita-ps)** – This profile is maintained agentically with **Claude Code**: the repository ships its own `CLAUDE.md` operating instructions and a custom [`grill-me`](./.claude/skills/grill-me/SKILL.md) skill that adversarially pressure-tests a plan before it ships.
 
 ---
 
@@ -30,5 +30,5 @@ Currently, I am focused on scaling **Enterprise System Design Architecture** and
 ---
 
 ### 🤝 Connect with Me
-* **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/deekshitapriyansha/)]
+* **LinkedIn:** [deekshitapriyansha](https://www.linkedin.com/in/deekshitapriyansha/)
 * **Certifications:** Project Management Professional (PMP)® | Certified ScrumMaster (CSM)®

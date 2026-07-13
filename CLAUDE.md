@@ -14,7 +14,7 @@ This file guides Claude Code on how to maintain, expand, and optimize this GitHu
 ## Rules & Coding Standards
 * **Documentation Style:** Use clean Markdown with clear headings (`##`, `###`), horizontal rules (`---`) to separate thoughts, bullet points for lists, and **bold text** to emphasize key metrics or technologies. 
 * **Git Commit Guidelines:** Use semantic commit messages (e.g., `docs: update README with enterprise system design focus` or `feat: add automated project section`). Keep commits atomic and concise.
-* **Data Constraints:** Do not hallucinate metrics or company names. Use the existing provided context for professional experience history.
+* **Source of Truth:** All metrics, company names, and dates must trace to the verified professional experience history provided in context. No inferred, estimated, or reconstructed figures.
 
 ## Commands for Claude to Reference
 * To check repository status: `git status`
